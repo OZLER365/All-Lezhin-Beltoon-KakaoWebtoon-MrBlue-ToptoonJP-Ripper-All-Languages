@@ -1,16 +1,16 @@
 **SUPPORT LANGUAGES - English, Japanese, Korean, Thailand, France, Germany, Spain, China/Taiwan
 
-*for some lezhin scroll is not needed it's automatically captures all images automatically in few seconds
+*AUTO SCROLL NOT NEEDED FOR FOR LEZHIN THAILAND, MR BLUE, KAKAO WEBTOON JUST WAIT UNTIL THE CAPTURE COUNTER STOPS
+
+*AUTO SCROLL DOES NOT WORK ON LEZHIN THAILAND THOUGH NOT NEEDED FOR LEZHIN THAILAND
 
 *Auto scroll not needed in MR BLUE site it's automatically captures all images automatically in few seconds though you can technically use auto scroll
 
 *TOPTOON JAPAN DOWNLOADING (toptoon other variants aren't supported)
 
-*auto scroll feels slow for toptoon, so not really recommended, you can just manually scroll to the very bottom
+*Auto scroll feels slow for TOPTOON, so not really recommended, you can just manually scroll to the very bottom 
 
 *IGNORE THE PAGE COUNTER IT DOESN'T IDENTIFY THE TOTAL NUMBER PAGES AVAILABLE ON SOME SITES, IT JUST CAPTURES THE TOTAL NUMBER OF PAGES BASED ON SITE'S READING PROGRESS BAR
-
-*AUTO SCROLL NOT NEEDED FOR KAKAO WEBTOON ALSO FOR SOME SITES JUST WAIT UNTIL THE CAPTURE COUNTER STOPS
 
 Help Keep This Userscript
 Updated and Running Smoothly
