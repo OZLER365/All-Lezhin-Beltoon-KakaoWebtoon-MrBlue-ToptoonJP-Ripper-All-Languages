@@ -1,5 +1,7 @@
 **SUPPORT LANGUAGES - English, Japanese, Korean, Thailand, France, Germany, Spain, China/Taiwan
 
+*for some lezhin scroll is not needed it's automatically captures all images automatically in few seconds
+
 *Auto scroll not needed in MR BLUE site it's automatically captures all images automatically in few seconds though you can technically use auto scroll
 
 *TOPTOON JAPAN DOWNLOADING (toptoon other variants aren't supported)
