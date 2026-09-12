@@ -33,7 +33,7 @@ This script supports multiple regional variants (English, Japanese, Korean, Thai
 ## 🚀 Installation & Usage
 
 1. **Prerequisite:** Install the **Tampermonkey** extension in your browser.
-2. **Install Script:** Download the latest version (v3.6.8) from [Greasyfork]([https://greasyfork.org/en/users/1553223-ozler365](https://greasyfork.org/en/scripts/563063-all-lezhin-beltoon-kakao-webtoon-mr-blue-toptoon-jp-ripper-all-languages)).
+2. **Install Script:** Download the latest version (v3.6.8) from [Greasyfork]([https://greasyfork.org/en/users/1553223-ozler365](https://greasyfork.org/en/scripts/563063-all-lezhin-beltoon-kakao-webtoon-mr-blue-toptoon-jp-ripper-all-languages)]).
 3. **Usage:** Open a supported chapter. Use the floating UI to adjust the **Scroll Delay** (if auto-scrolling is needed) and click **Start Auto-Capture**.
 4. **Download:** Once the capture counter stops, click **Download Captured** to save the panels to your device.
 
